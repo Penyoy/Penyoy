@@ -12,7 +12,7 @@
 
 I'm Penyoy, a developer who likes building things,
 experimenting with APIs, web applications, Android apps,
-and random projects.
+and random projects. im using AI for research and coding, so im is vibe coder
 
 ### Tech Stack
 
